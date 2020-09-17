@@ -39,7 +39,6 @@
 - [x] respond to any screening questions listed in the job post
 - [ ] copy and paste your proposal to submit as many proposals as possible in a short time
 
-
 #### Q7. A fixed price job has a set price and payments are made at predetermined project milestones.
 #### How does upwork's protection for fixed price jobs work(using Escrow)?
 
@@ -58,5 +57,14 @@
 #### Which of the following statements about starting to work on a job is true?
 
 - [ ] start the work as soon as the client has sent you a message throgh upwork
-- [x] start the work only once the client has sent you an offer, you have accepted the offer on the platform, and your contract appears in the 
-	####### My Jobs> all Contracts tab
+- [x] start the work only once the client has sent you an offer, you have accepted the offer on the platform, and your contract appears in the
+
+###### My Jobs> all Contracts tab
+
+#### Q8. Upwork's Terms of Servie help users stay safe and maintain a trustworthy marketplace. 
+#### Which of the following statements about upwork's Terms of Service are true?
+
+- [x] you commit to keeping client relationships on upwork for at least 24 months, unless you or your client pays a conversion fee to take the relationship off the marketplace
+- [x] Soliciting or accepting payment from an upwork client off the platform is violation of upwork's Terms of Service
+- [x] You can only have ONE upwork account. This one account ives you access to any account type you may need including : freelancer, client, agency
+- [ ] You can share your account credentials with other users
