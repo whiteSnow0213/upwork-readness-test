@@ -1,7 +1,7 @@
-##Upwork Readness Test Answers
+## Upwork Readness Test Answers
 
-####Q1. Upwork offers a number of choices for withdrawing your funds, including Direct to Local Bank, ACH, USD wire transfer , Instant Pay for U.S.freelancers, PayPal and Payoneer.
-####To prevent falling victim to payment scams, which timps should you follow to protect yourself from suspicious activities?
+#### Q1. Upwork offers a number of choices for withdrawing your funds, including Direct to Local Bank, ACH, USD wire transfer , Instant Pay for U.S.freelancers, PayPal and Payoneer.
+#### To prevent falling victim to payment scams, which timps should you follow to protect yourself from suspicious activities?
 
 - [ ] Share your bank information with your client
 - [ ] accept mailed checks from your client
