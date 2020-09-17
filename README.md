@@ -9,7 +9,7 @@
 - [ ] accept a job where teh client asks you to pay money to get a job
 
 #### Q2. Your overall response time is displayed on your Upwork profile.
-####Which of the following describes your responsiveness score? (please check all that apply.)
+#### Which of the following describes your responsiveness score? (please check all that apply.)
 
 - [x] your responsiveness score is based on how quickly you respond to (accept/decline) clients' invitations to jobs
 - [x] your responsiveness score appears on your profile for clients to see
@@ -38,3 +38,25 @@
 - [x] outline how you would approach and complete the job
 - [x] respond to any screening questions listed in the job post
 - [ ] copy and paste your proposal to submit as many proposals as possible in a short time
+
+
+#### Q7. A fixed price job has a set price and payments are made at predetermined project milestones.
+#### How does upwork's protection for fixed price jobs work(using Escrow)?
+
+- [x] The client deposits (pre-funds) a milestone payment into escrow before you begin working. Upon receiving and approving the work, the client releases the payment to you.
+- [ ] You proactively begin working before the client has created and funded a milestone.
+
+#### Q8. Many jobs on upwork are posted privately as invite-only jobs (these jobs don't require Connects). A strong profile can help you receive more invitations and win more work.
+#### Which items help you create 100% complete profile?
+
+- [x] a professional-looking profiel photo of yourself
+- [x] a title, overview, and employment history
+- [x] a list of your top skills
+- [x] a portfolio of work
+
+#### Q9. Working safely on upwork shold be your #1 priority. This includdes never starting to work on a job unless you already have a contract in place with your client.
+#### Which of the following statements about starting to work on a job is true?
+
+- [ ] start the work as soon as the client has sent you a message throgh upwork
+- [x] start the work only once the client has sent you an offer, you have accepted the offer on the platform, and your contract appears in the 
+	####### My Jobs> all Contracts tab
